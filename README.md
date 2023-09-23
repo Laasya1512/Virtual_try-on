@@ -26,18 +26,20 @@ Shirt images in a folder (e.g., "Resources/Shirts") that you want to use for vir
 
 ## Usage:
 
+## Usage
+
 1. Clone this repository to your local machine:
 
- ```bash
-git clone https://github.com/yourusername/virtual-tryon.git
+   ```bash
+   git clone https://github.com/yourusername/virtual-tryon.git
 
 2. Navigate to the project directory:
- ```bash
-cd virtual-tryon
+   ```bash
+   cd virtual-tryon
 
 3. Run the 'main.py' script:
-```bash
-python main.py
+   ```bash
+   python main.py
 
 4. Use your webcam or provide a video file as the video source. The application will detect your upper body and overlay different shirts as you move.
 
@@ -46,6 +48,18 @@ python main.py
 -If your right hand goes above your head, it will cycle through shirt options to the right.
 
 6. The selected shirt will have a rectangular highlight around it.
+
+## Team Members
+Our team is a diverse group of passionate individuals brought together by a shared interest in computer vision and fashion technology. We collaborated closely to develop and fine-tune this virtual try-on project, leveraging each team member's unique skills and expertise. From designing the user interface to implementing complex algorithms, we worked together to create a seamless and enjoyable virtual shopping experience for our users. Our dedication to teamwork and innovation has been instrumental in the success of this project.
+
+- **Laasya Reddy M**
+  - GitHub: [github.com/laasyareddym](https://github.com/Laasya1512)
+
+- **Kajal S Singh**
+  - GitHub: [github.com/kajalssingh](https://github.com/Kajal2607)
+
+- **Karishma Chauhan**
+  - GitHub: [github.com/karishma-chauhan](https://github.com/karishma-chauhan)
 
 ## License
 
